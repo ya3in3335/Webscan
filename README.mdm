@@ -1,0 +1,22 @@
+WebScan - Website IP & Open Port Scanner
+
+WebScan is a simple yet powerful Python tool designed to extract the IP address of a given website and scan for common open ports. It features a clear screen on startup and displays a custom ASCII banner with the Instagram handle "ya ya la 19".
+
+Features:
+
+✅ Extracts IP Address of any website.
+✅ Scans for common open ports (e.g., 80, 443, 22, etc.).
+✅ Clears the terminal on startup for a clean interface.
+✅ Displays a custom banner with Instagram: ya ya la 19.
+
+Installation & Usage:
+
+1. Clone the repository:
+
+git clone https://github.com/yourusername/webscan.git
+cd webscan
+
+
+2. Run the script:
+
+python3 webscan.py
